@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/Users/allen/rep/fpis6.1/src/main/scala/StateNonNegativeIntTest.scala","d5d3e18ae9cf1b48729a4bcb9ba3095da19cc785"]],"lastModifiedTimes":[]}}]
